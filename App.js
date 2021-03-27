@@ -1,12 +1,13 @@
 alert("Welcome to your Dashboard")
 
-
-var fullName = firstName + lastName;
+var txt;
 var firstName ='Abdullah ';
 var lastName  ='Alabbadi';
+var fullName = firstName + lastName;
+
 
 var fullName = prompt('What is your Full name');
-var txt;
+
 
 
 if (fullName == firstName + lastName ){
