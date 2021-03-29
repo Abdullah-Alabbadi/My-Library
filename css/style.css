@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+}
+header {
+  background-color: #5f939a;
+}
+header h1 {
+  text-align: center;
+  color: #dfe0ee;
+  margin: 0;
+}
+
+header nav {
+  background-color: #5f939a;
+  color: #df2727;
+}
+
+main {
+  background-color: #53354a;
+}
+footer {
+  background-color: #5f939a;
+  color: #dfe0ee;
+}
